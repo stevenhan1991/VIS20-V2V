@@ -19,7 +19,7 @@ cd Code
 
 - training
 ```
-python3 main.py --mode 'train' --dataset 'Ionization'
+python3 main.py --mode 'train' --dataset 'Combustion'
 ```
 
 - inference
